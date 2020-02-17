@@ -7,6 +7,6 @@ def reverse_each_word(string)
    word.reverse
   end
  
- return list_array.join(" ")
+ return list.join(" ")
 
 end  
